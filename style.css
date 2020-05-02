@@ -1,0 +1,484 @@
+body{
+    background-color: whitesmoke;
+}
+
+.column {
+    padding: 10px 20px 10px 100px;
+    margin: 10px;
+    letter-spacing: 10px;
+}
+img {
+    width: 15px;
+    
+}
+.head {
+    background-color: #3b5998;
+    height: 50px;
+    width: 100%;
+    
+} 
+#youtube {
+    width: 25px;
+}
+.para1 {
+    color: white;
+    padding: 10px 20px 10px 100px;
+}
+.topbutton {
+    padding: 10px 20px 10px 70px;
+}
+.image2 {
+    width: 200px;
+}
+.div2 {
+    background-color: whitesmoke;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 55px;
+    z-index: 1;
+    border-bottom: 1px solid black;
+}
+
+.column2 {
+    padding:5px 10px 10px 100px;
+}
+.hometab {
+    padding: 5px 10px 10px 300px;
+    margin: 20px;
+    word-spacing: 25px;
+}
+.topbar {
+    color: black;
+    text-decoration: none;
+}
+.topbar:hover {
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#corona {
+    width: 100%;
+    height: 470px;
+    position: absolute;
+    top: 130px;
+}
+.div3 {
+    position: absolute;
+    top: 620px;
+    background-color: blue;
+    width: 1200px;
+    text-align: center;
+    left: 80px;
+}
+#ticker {
+    padding-left: 20px;
+}
+.div4 {
+    position: absolute;
+    top: 680px;
+    text-align: center;
+    left: 550px;
+}
+.h1 {
+    float: left;
+    width: 107px;
+    color: #316DC3;
+    font-size: 36px;
+
+}
+.h2 {
+    float: left;
+    color: #427900;
+    font-size: 36px;
+    
+}
+#introimage {
+    clear: both;
+    width: 50px;
+    
+}
+.intropara {
+    color: greenyellow;
+    clear: both;
+}
+.div5 {
+    position: absolute;
+    top: 840px;
+    width: 1000px;
+    left: 170px;
+    background-color: whitesmoke;
+}
+.intropara1 {
+text-align: justify;
+line-height: 200%;
+}
+.div6 {
+    position: absolute;
+    top: 1360px;
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+}
+.food {
+    width: 40px;
+}
+.fam {
+    padding-left: 190px;
+    letter-spacing: 16.2em;
+}
+.fam1 {
+    color: white;
+    font-size: 50px;
+    padding-left: 125px;
+    word-spacing: 135px;
+}
+.h11 {
+    float: left;
+    width: 173px;
+    color: white;
+    font-size: 18px;
+}
+.h22 {
+    float: left;
+    color: greenyellow;
+    font-size: 18px;
+}
+.fam2 {
+    padding-left: 60px;
+}
+.h111 {
+    float: left;
+    width: 215px;
+    color: white;
+    font-size: 18px;
+    padding-left: 55px;
+}
+.h222 {
+    float: left;
+    color: greenyellow;
+    font-size: 18px;
+}
+.h1111 {
+    float: left;
+    width: 125x;
+    color: white;
+    font-size: 18px;
+    padding-left: 85px;
+}
+.h2222 {
+    float: left;
+    color: greenyellow;
+    font-size: 18px;
+}
+.h11111 {
+    float: left;
+    width: 100x;
+    color: white;
+    font-size: 18px;
+    padding-left: 130px;
+}
+.h22222 {
+    float: left;
+    color: greenyellow;
+    font-size: 18px;
+}
+.div7 {
+    position: absolute;
+    top: 1700px;
+    text-align: center;
+    left: 550px;
+    height: 200px;
+}
+.h10 {
+    float: left;
+    width: 210px;
+    color: #316DC3;
+    text-align: center;
+}
+.h20{
+    float: left;
+    color: #427900;
+    text-align: center;
+}
+.div8 {
+    clear: both;
+    position: absolute;
+    top: 1900px;
+}
+.div8a {
+    position: relative;
+    top: 25px;
+    left: 90px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+#sadqa {
+    width: 250px;
+    padding-left: 150px;
+}
+.sadqa {
+    padding-left: 120px;
+    font-size: 22px;
+    color: #80b3ff;
+}
+.div8b {
+    position: absolute;
+    top: 25px;
+    left: 500px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+.welfare {
+    padding-left: 150px;
+    font-size: 22px;
+    color: #80b3ff;
+}
+.div8c {
+    position: absolute;
+    top: 25px;
+    left: 910px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+.div9 {
+    clear: both;
+    position: absolute;
+    top: 2200px;
+}
+.div9a {
+    position: relative;
+    top: 25px;
+    left: 90px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+.div9b {
+    position: absolute;
+    top: 25px;
+    left: 500px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+.div9c {
+    position: absolute;
+    top: 25px;
+    left: 910px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-style: groove;
+    display: inline-block;
+}
+.roplant {
+    padding-left: 140px;
+    font-size: 22px;
+    color: #80b3ff;
+}
+.div10 {
+    clear: both;
+    position: absolute;
+    top: 2600px;
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.mission {
+    color: #80b3ff;
+    font-size: 24px;
+    padding-left: 95px;
+}
+.div10a {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 100px;
+    width: 400px;
+    height: 100px;
+    color: #80b3ff;
+   
+}
+.col10a {
+    padding-left: 90px;
+}
+#hep {
+    width: 50px;
+    padding-left: 25px;
+    
+    
+}
+.hep {
+    font-size: 16px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.div10b {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    width: 400px;
+    height: 100px;
+    color: #80b3ff;
+}
+.div10c {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 220px;
+    width: 400px;
+    height: 100px;
+    color: #80b3ff;
+    left: 93px;
+}
+.div10d {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 220px;
+    width: 400px;
+    height: 100px;
+    color: #80b3ff;
+    left: 500px;
+}
+.event {
+    padding-left: 290px;
+}
+.div10e {
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 920px;
+    width: 200px;
+    height: 270px;
+    color: #aaabad;
+}
+.div11 {
+    background-color: white;
+    position: absolute;
+    top: 3000px;
+    width: 100%;
+    height: 500px;
+   
+}
+#image1 {
+    color: #316DC3;
+    float: left;
+    width: 655px;
+    padding-left: 540px;
+    font-size: 36px;
+
+}
+#gallery1 {
+    color: #427900;
+    float: left;
+    font-size: 36px;
+}
+#parag {
+    clear: both;
+    padding-left: 580px;
+}
+#pg1 {
+    width: 3px;
+    padding-left: 110px;
+}
+#pg2 {
+    width: 225px;
+    padding-left: 5px;
+}
+#pg3 {
+    width: 225px;
+    padding-left: 5px;
+}
+#pg4 {
+    width: 225px;
+    padding-left: 5px;
+}
+#pg5 {
+    width: 225px;
+    padding-left: 5px;
+}
+.div12 {
+    background-color: rgb(22, 21, 21);
+    position: absolute;
+    top: 3500px;
+    width: 100%;
+    height: 450px;
+    color: #aaabad;
+}
+.head1 {
+    padding-left: 120px;
+    padding-top: 20px;
+    line-height: 25px;
+}
+.phead {
+    padding-left: 130px;
+}
+#tele {
+    padding-left: 30px;
+}
+.div13 {
+    position: absolute;
+    top: 3620px;
+    width: 260px;
+    background-color: rgb(22, 21, 21);
+    left: 600px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: solid 1px #aaabad;
+}
+.div14 {
+    position: absolute;
+    top: 3620px;
+    width: 260px;
+    background-color: rgb(22, 21, 21);
+    left: 900px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cpara {
+    letter-spacing: 10px;
+}
+.div15 {
+    position: absolute;
+    top: 3950px;
+    height: 50px;
+    background-color: #316dc3;
+    color: white;
+    width: 100%;
+}
+.botpara {
+    padding-left: 100px;
+    font-size: 10px;
+    padding-top: 22px;
+}
+.div16 {
+    position: fixed;
+    right: 30px;
+    bottom: 12px;
+}
+#topup {
+    width: 40px;
+    opacity: 50%;
+}
